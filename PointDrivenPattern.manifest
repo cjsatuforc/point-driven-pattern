@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Felix Kraemer",
+	"description":	{
+		"":	"Puts a Feature or Geometry onto every point in a sketch"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
